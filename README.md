@@ -6,7 +6,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SynysterGrowly&layout=compact&theme=tokyonight)](https://github.com/SynysterGrowly/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SynysterGrowly&layout=compact&theme=tokyonight)](https://github.com/SynysterGrowly/github-readme-stats)
 <!--
 **SynysterGrowly/SynysterGrowly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
