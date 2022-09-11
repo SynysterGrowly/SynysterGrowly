@@ -9,9 +9,8 @@
 |---|---|
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)|<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>|
 ## 📈My statistics
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areyouivan&show_icons=true&theme=city_lights)](https://github.com/areyouivan/github-readme-stats)|![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=areyouivan&show_icons=true&theme=city_lights)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SynysterGrowly&show_icons=true&theme=dark)](https://github.com/areyouivan/github-readme-stats)|![SynysterGrowly's GitHub stats](https://github-readme-stats.vercel.app/api?username=SynysterGrowly&show_icons=true&theme=dark)|
 |---|---|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SynysterGrowly&layout=demo&show_icons=true&theme=dark)](https://github.com/SynysterGrowly/github-readme-stats)               [![SynysterGrowly's GitHub stats](https://github-readme-stats.vercel.app/api?username=SynysterGrowly&show_icons=true&theme=dark)](https://github.com/SynysterGrowly/github-readme-stats)
 
 
