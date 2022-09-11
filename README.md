@@ -1,8 +1,7 @@
 # My projects 🚀
 
 
-(https://github.com/SynysterGrowly/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SynysterGrowly&layout=demo&theme=tokyonight)](https://github.com/SynysterGrowly/github-readme-stats)|[![SynysterGrowly's GitHub stats](https://github-readme-stats.vercel.app/api?username=SynysterGrowly&show_icons=true&theme=tokyonight)]
+(https://github.com/SynysterGrowly/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SynysterGrowly&layout=demo&theme=tokyonight)](https://github.com/SynysterGrowly/github-readme-stats)|[![SynysterGrowly's GitHub stats](https://github-readme-stats.vercel.app/api?username=SynysterGrowly&show_icons=true&theme=tokyonight)]
 
 
 
