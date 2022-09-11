@@ -1,9 +1,15 @@
-### Hola! 👋
-
-[![SynysterGrowly's GitHub stats](https://github-readme-stats.vercel.app/api?username=SynysterGrowly&show_icons=true&theme=tokyonight)](https://github.com/SynysterGrowly/github-readme-stats)
+# My projects 🚀
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SynysterGrowly&layout=compact&theme=tokyonight)](https://github.com/SynysterGrowly/github-readme-stats)
+
+| Month    | Savings |
+| -------- | ------- |
+|[![SynysterGrowly's GitHub stats](https://github-readme-stats.vercel.app/api?username=SynysterGrowly&show_icons=true&theme=tokyonight)](https://github.com/SynysterGrowly/github-readme-stats) |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SynysterGrowly&layout=compact&theme=tokyonight)](https://github.com/SynysterGrowly/github-readme-stats)    |
+
+
+
+
 
 
 <!--
